@@ -1,0 +1,21 @@
+version: '2.2'
+
+services:
+  web:
+    image: rempah-web.wargames.my
+    ports:
+      - 31337:80
+    volumes:
+        - "$PWD/flag:/flag"
+        - "$PWD/apache2.conf:/etc/apache2/apache2.conf"
+        - "$PWD/000-default.conf:/etc/apache2/sites-enabled/000-default.conf"
+    build:
+      context: .
+      dockerfile: Dockerfile
+    networks:
+      - net
+
+networks:
+    net: 
+      external: 
+         name: h1ve_frp_containers
