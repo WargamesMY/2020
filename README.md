@@ -54,7 +54,7 @@ We try hard to keep the competition as free and exciting as possible; however, w
 | Chicken Attack| RE| | 
 | oatmeal| RE| | 
 | babyrsa| Crypto|[T4P4W](https://aimandaniel.com/2020/12/06/wargames-my-2020-write-up-cryptography-all/) | 
-| E-CryptoBook Service| Crypto|[T4P4W](https://aimandaniel.com/2020/12/06/wargames-my-2020-write-up-cryptography-all/) | 
+| E-CryptoBook Service| Crypto | | 
 | Merkle Hellman| Crypto| | 
 | Long Crypto Guessing| Crypto|[T4P4W](https://aimandaniel.com/2020/12/06/wargames-my-2020-write-up-cryptography-all/) | 
 | gitg0d| Web| | 
