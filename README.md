@@ -34,38 +34,47 @@ We try hard to keep the competition as free and exciting as possible; however, w
 - Non-Malaysian are still welcomed to register and play; however, you won’t be eligible for the prizes
 ```
 
-#### *Write-up*
+#### *Full Write-up*
+| Team | Category | Links |
+|---------|------|-----|
+| KaizenSecurity x WuhanBatSoup | Pro | [Original](https://github.com/kaizensecurity/WGMY2020/blob/main/writeup-kaizensec-wuhanbatsoup.pdf) - [Mirror](writeup/writeup-kaizensec-wuhanbatsoup.pdf) |
+| Red is sus | Pro | [Original](writeup/Wargames%20-%20Red%20is%20sus.pdf) |
+| 70000000 | Pro | [Original](writeup/WGMY2020Writeup.pdf) |
+| sudoers | Edu | [Original](https://amjad50.github.io/en/series/wargames-malaysia-2020-writeups/) |
+| H0j3n | Edu | [Original](https://h0j3n.medium.com/writeup-wgmy-2020-ad747944cea3) |
+
+#### *Individual Write-up*
 
 | Challenge | Category | Links |
 |---------|-----|-----|
-| babyrev| RE| | 
+| babyrev| RE |[MonkOnMars](writeup/MonkOnMars/BabyRev_writeup.pdf)| 
 | Cr4ck M3!| RE| | 
 | kmum| RE| | 
 | senang| RE| | 
 | Chicken Attack| RE| | 
 | oatmeal| RE| | 
-| babyrsa| Crypto| | 
-| E-CryptoBook Service| Crypto| | 
+| babyrsa| Crypto|[T4P4W](https://aimandaniel.com/2020/12/06/wargames-my-2020-write-up-cryptography-all/) | 
+| E-CryptoBook Service| Crypto|[T4P4W](https://aimandaniel.com/2020/12/06/wargames-my-2020-write-up-cryptography-all/) | 
 | Merkle Hellman| Crypto| | 
-| Long Crypto Guessing| Crypto| | 
+| Long Crypto Guessing| Crypto|[T4P4W](https://aimandaniel.com/2020/12/06/wargames-my-2020-write-up-cryptography-all/) | 
 | gitg0d| Web| | 
 | DankDebrid| Web| | 
-| Jika Kau Fikirkan Kau Boleh| Web| | 
+| Jika Kau Fikirkan Kau Boleh| Web|[T4P4W](https://aimandaniel.com/2020/12/06/wargames-my-2020-write-up-web-jika-kau-fikirkan-kau-boleh/) | 
 | SpeedyQuizy| Mobile| | 
 | Baby iOS Application| Mobile| | 
 | bayipwn| PWN| | 
-| nuisance| Stega| | 
-| Defuse The Bomb!| Misc| | 
-| Introduction| Forensic - Lord Kiske's Server| | 
-| [Analysis] Attacker's IP Address| Forensic - Lord Kiske's Server| | 
-| [Analysis] Hash of Webshell| Forensic - Lord Kiske's Server| | 
-| [Analysis] Path of Webshell| Forensic - Lord Kiske's Server| | 
-| [Analysis] Hash of Ransomware| Forensic - Lord Kiske's Server| | 
-| [Analysis] Location of ransomware| Forensic - Lord Kiske's Server| | 
-| [Analysis] CnC Hostname| Forensic - Lord Kiske's Server| | 
-| [Analysis] Exploit Used| Forensic - Lord Kiske's Server| | 
-| [Analysis] Restoration of the Lord Kiske's server| Forensic - Lord Kiske's Server| | 
-| [Hacking] Hack the Hacker| Forensic - Lord Kiske's Server| | 
+| nuisance| Stega|[MonkOnMars](writeup/MonkOnMars/Nuisance_writeup.pdf) | 
+| Defuse The Bomb!| Misc|[MonkOnMars](writeup/MonkOnMars/DefuseTheBomb_writeup.pdf) - [T4P4W](https://aimandaniel.com/2020/12/06/wargames-my-2020-write-up-misc-defuse-the-bomb/) | 
+| Introduction| Forensic - Lord Kiske's Server| [T4P4W](https://aimandaniel.com/2020/12/06/wargames-my-2020-write-up-forensics-all/) | 
+| [Analysis] Attacker's IP Address| Forensic - Lord Kiske's Server|[T4P4W](https://aimandaniel.com/2020/12/06/wargames-my-2020-write-up-forensics-all/) | 
+| [Analysis] Hash of Webshell| Forensic - Lord Kiske's Server|[T4P4W](https://aimandaniel.com/2020/12/06/wargames-my-2020-write-up-forensics-all/) | 
+| [Analysis] Path of Webshell| Forensic - Lord Kiske's Server|[T4P4W](https://aimandaniel.com/2020/12/06/wargames-my-2020-write-up-forensics-all/) | 
+| [Analysis] Hash of Ransomware| Forensic - Lord Kiske's Server|[T4P4W](https://aimandaniel.com/2020/12/06/wargames-my-2020-write-up-forensics-all/) | 
+| [Analysis] Location of ransomware| Forensic - Lord Kiske's Server|[T4P4W](https://aimandaniel.com/2020/12/06/wargames-my-2020-write-up-forensics-all/) | 
+| [Analysis] CnC Hostname| Forensic - Lord Kiske's Server|[T4P4W](https://aimandaniel.com/2020/12/06/wargames-my-2020-write-up-forensics-all/) | 
+| [Analysis] Exploit Used| Forensic - Lord Kiske's Server|[T4P4W](https://aimandaniel.com/2020/12/06/wargames-my-2020-write-up-forensics-all/) | 
+| [Analysis] Restoration of the Lord Kiske's server| Forensic - Lord Kiske's Server|[T4P4W](https://aimandaniel.com/2020/12/06/wargames-my-2020-write-up-forensics-all/) | 
+| [Hacking] Hack the Hacker| Forensic - Lord Kiske's Server|[T4P4W](https://aimandaniel.com/2020/12/06/wargames-my-2020-write-up-forensics-all/) | 
 
 
 #### *Pro Category Final Scoreboard*
