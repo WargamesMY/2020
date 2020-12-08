@@ -79,11 +79,11 @@ We try hard to keep the competition as free and exciting as possible; however, w
 
 #### *Pro Category Final Scoreboard*
 
-![image](score_pro.png)
+![image](pro.png)
 
 #### *Edu Category Final Scoreboard*
 
-![image](score_edu.png)
+![image](edu.png)
 
 #### *Sponsors*
 <p align="center">
