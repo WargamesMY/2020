@@ -36,8 +36,36 @@ We try hard to keep the competition as free and exciting as possible; however, w
 
 #### *Write-up*
 
-|Challenge|Links|
-|---------|-----|
+| Challenge | Category | Links |
+|---------|-----|-----|
+| babyrev| RE| | 
+| Cr4ck M3!| RE| | 
+| kmum| RE| | 
+| senang| RE| | 
+| Chicken Attack| RE| | 
+| oatmeal| RE| | 
+| babyrsa| Crypto| | 
+| E-CryptoBook Service| Crypto| | 
+| Merkle Hellman| Crypto| | 
+| Long Crypto Guessing| Crypto| | 
+| gitg0d| Web| | 
+| DankDebrid| Web| | 
+| Jika Kau Fikirkan Kau Boleh| Web| | 
+| SpeedyQuizy| Mobile| | 
+| Baby iOS Application| Mobile| | 
+| bayipwn| PWN| | 
+| nuisance| Stega| | 
+| Defuse The Bomb!| Misc| | 
+| Introduction| Forensic - Lord Kiske's Server| | 
+| [Analysis] Attacker's IP Address| Forensic - Lord Kiske's Server| | 
+| [Analysis] Hash of Webshell| Forensic - Lord Kiske's Server| | 
+| [Analysis] Path of Webshell| Forensic - Lord Kiske's Server| | 
+| [Analysis] Hash of Ransomware| Forensic - Lord Kiske's Server| | 
+| [Analysis] Location of ransomware| Forensic - Lord Kiske's Server| | 
+| [Analysis] CnC Hostname| Forensic - Lord Kiske's Server| | 
+| [Analysis] Exploit Used| Forensic - Lord Kiske's Server| | 
+| [Analysis] Restoration of the Lord Kiske's server| Forensic - Lord Kiske's Server| | 
+| [Hacking] Hack the Hacker| Forensic - Lord Kiske's Server| | 
 
 
 #### *Pro Category Final Scoreboard*
