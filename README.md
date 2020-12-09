@@ -42,6 +42,7 @@ We try hard to keep the competition as free and exciting as possible; however, w
 | 70000000 | Pro | [Original](writeup/WGMY2020Writeup.pdf) |
 | sudoers | Edu | [Original](https://amjad50.github.io/en/series/wargames-malaysia-2020-writeups/) |
 | H0j3n | Edu | [Original](https://h0j3n.medium.com/writeup-wgmy-2020-ad747944cea3) |
+| Trailblazers | Edu | [Original](writeup/Trailblazers.pdf) |
 
 #### *Individual Write-up*
 
