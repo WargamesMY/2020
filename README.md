@@ -56,7 +56,7 @@ We try hard to keep the competition as free and exciting as possible; however, w
 | Long Crypto Guessing| Crypto|[T4P4W](https://aimandaniel.com/2020/12/06/wargames-my-2020-write-up-cryptography-all/) | 
 | gitg0d| Web| | 
 | DankDebrid| Web| | 
-| Jika Kau Fikirkan Kau Boleh| Web|[T4P4W](https://aimandaniel.com/2020/12/06/wargames-my-2020-write-up-web-jika-kau-fikirkan-kau-boleh/) | 
+| [Jika Kau Fikirkan Kau Boleh](source/WEB/Jika%20Kau%20Fikirkan%20Kau%20Boleh) | Web|[T4P4W](https://aimandaniel.com/2020/12/06/wargames-my-2020-write-up-web-jika-kau-fikirkan-kau-boleh/) | 
 | SpeedyQuizy| Mobile| | 
 | Baby iOS Application| Mobile| | 
 | bayipwn| PWN| | 
