@@ -48,14 +48,10 @@ We try hard to keep the competition as free and exciting as possible; however, w
 | Challenge | Category | Links |
 |---------|-----|-----|
 | babyrev| RE |[MonkOnMars](writeup/MonkOnMars/BabyRev_writeup.pdf)| 
-| Cr4ck M3!| RE| | 
 | kmum| RE| | 
 | senang| RE| | 
-| Chicken Attack| RE| | 
 | oatmeal| RE| | 
 | babyrsa| Crypto|[T4P4W](https://aimandaniel.com/2020/12/06/wargames-my-2020-write-up-cryptography-all/) | 
-| E-CryptoBook Service| Crypto | | 
-| Merkle Hellman| Crypto| | 
 | Long Crypto Guessing| Crypto|[T4P4W](https://aimandaniel.com/2020/12/06/wargames-my-2020-write-up-cryptography-all/) | 
 | gitg0d| Web| | 
 | DankDebrid| Web| | 
