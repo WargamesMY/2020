@@ -48,12 +48,12 @@ We try hard to keep the competition as free and exciting as possible; however, w
 
 | Challenge | Category | Links |
 |---------|-----|-----|
-| babyrev| RE |[MonkOnMars](writeup/MonkOnMars/BabyRev_writeup.pdf)| 
+| babyrev| RE |[MonkOnMars](writeup/MonkOnMars/BabyRev_writeup.pdf) - [Hong5489](https://github.com/Hong5489/WGMY2020/tree/main/babyrev)| 
 | kmum| RE| | 
 | senang| RE| | 
 | oatmeal| RE| | 
-| babyrsa| Crypto|[T4P4W](https://aimandaniel.com/2020/12/06/wargames-my-2020-write-up-cryptography-all/) | 
-| Long Crypto Guessing| Crypto|[T4P4W](https://aimandaniel.com/2020/12/06/wargames-my-2020-write-up-cryptography-all/) | 
+| babyrsa| Crypto|[T4P4W](https://aimandaniel.com/2020/12/06/wargames-my-2020-write-up-cryptography-all/) - [Hong5489](https://github.com/Hong5489/WGMY2020/tree/main/babyrsa)| 
+| Long Crypto Guessing| Crypto|[T4P4W](https://aimandaniel.com/2020/12/06/wargames-my-2020-write-up-cryptography-all/) - [Hong5489](https://github.com/Hong5489/WGMY2020/tree/main/lcg)| 
 | gitg0d| Web| | 
 | DankDebrid| Web| | 
 | [Jika Kau Fikirkan Kau Boleh](source/WEB/Jika%20Kau%20Fikirkan%20Kau%20Boleh) | Web|[T4P4W](https://aimandaniel.com/2020/12/06/wargames-my-2020-write-up-web-jika-kau-fikirkan-kau-boleh/) | 
@@ -61,7 +61,7 @@ We try hard to keep the competition as free and exciting as possible; however, w
 | Baby iOS Application| Mobile| | 
 | bayipwn| PWN| | 
 | nuisance| Stega|[MonkOnMars](writeup/MonkOnMars/Nuisance_writeup.pdf) | 
-| Defuse The Bomb!| Misc|[MonkOnMars](writeup/MonkOnMars/DefuseTheBomb_writeup.pdf) - [T4P4W](https://aimandaniel.com/2020/12/06/wargames-my-2020-write-up-misc-defuse-the-bomb/) | 
+| Defuse The Bomb!| Misc|[MonkOnMars](writeup/MonkOnMars/DefuseTheBomb_writeup.pdf) - [T4P4W](https://aimandaniel.com/2020/12/06/wargames-my-2020-write-up-misc-defuse-the-bomb/) - [Hong5489](https://github.com/Hong5489/WGMY2020/tree/main/bomb)| 
 | Introduction| Forensic - Lord Kiske's Server| [T4P4W](https://aimandaniel.com/2020/12/06/wargames-my-2020-write-up-forensics-all/) | 
 | [Analysis] Attacker's IP Address| Forensic - Lord Kiske's Server|[T4P4W](https://aimandaniel.com/2020/12/06/wargames-my-2020-write-up-forensics-all/) | 
 | [Analysis] Hash of Webshell| Forensic - Lord Kiske's Server|[T4P4W](https://aimandaniel.com/2020/12/06/wargames-my-2020-write-up-forensics-all/) | 
